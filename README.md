@@ -1,13 +1,13 @@
-# PI-RP2_water_level_gauge
+# Measuring Aquatic Ultrasonic Level Instrument (MAULI)
 
-https://github.com/T-622/RPI-PICO-I2C-LCD
-　
-https://github.com/raspberrypi/pico-micropython-examples/blob/master/adc/temperature.py
+## 機能
 
 
-# 購入先等
-# Raspberry Pi Pico H
-## KSY
+## 作り方
+
+## 購入先等
+### Raspberry Pi Pico H
+#### KSY
 - Raspberry Pi Pico H　¥935　(2024/9現在)
 https://raspberry-pi.ksyic.com
 
@@ -61,6 +61,11 @@ https://www.amazon.co.jp/%E3%82%AA%E3%83%BC%E3%83%A0%E9%9B%BB%E6%A9%9F-ES59089-%
 - タミヤ エレクラフトシリーズ No.19 1.5A 平行コード (5m) 75019　¥281　(2024/8現在)
 https://www.amazon.co.jp/%E3%82%BF%E3%83%9F%E3%83%A4-%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-No-19-%E5%B9%B3%E8%A1%8C%E3%82%B3%E3%83%BC%E3%83%89-75019/dp/B001VZJE0U/ref=sr_1_3?crid=1ZW34ND7WQ5M7&dib=eyJ2IjoiMSJ9.1NAfqtgMuPLJgzjWXEtlrKIZ4-OolsdXFezBjPbM8V827I5svJJSRCcHxpJP9pdbR37hMD8mW-MR0qlRgLU3iWmOqO5pkUpdE1NafUudwsTzdif3DblE1lsKjhfVv28vyTMxSoTe3SWvR71JDUzFc-Bqy9DWwI1cYxErq2mnUMIDHL-eGep0wX3d91BRLJZcF953RDrcsKJbcbICTg3zqeBYwwF2chw_q8BOuuOeU1DJ-jTMnm1AzquaHNEeTE_W_fFEVGcSGrG6CSLbaXmug_R0svt9CO1oRNWXG6Lh2jo.vcX-5GB0GlfFB8iV2Yx1NvLPj7vL3IAssHFwTt9Oz8Y&dib_tag=se&keywords=%E3%82%BF%E3%83%9F%E3%83%A4+%E3%82%B3%E3%83%BC%E3%83%89&qid=1723970081&sprefix=tamiya+%E3%82%B3%E3%83%BC%E3%83%89%2Caps%2C148&sr=8-3
 
+
+## pythonコード
+https://github.com/T-622/RPI-PICO-I2C-LCD　
+https://github.com/raspberrypi/pico-micropython-examples/blob/master/adc/temperature.py
+
 ## その他
 ### 工具
 - ラジオペンチ
@@ -74,11 +79,6 @@ https://www.amazon.co.jp/%E3%82%BF%E3%83%9F%E3%83%A4-%E3%82%A8%E3%83%AC%E3%82%AF
 
 
 
-# 「玄関みまもるくん」 RPI-RP2_genkan_mimamoru_kun
-It is a device using Raspberry Pi Pico W that aggregates the detection results of the human sensor and reports it on LINE.
-
-
-## 機能
 **「玄関みまもるくん」（Raspberry Pi Pico W を使用した玄関の出入り監視装置）**
 
 <img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5380.JPG" width="320px">　　<img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5493.JPG" width="320px">
