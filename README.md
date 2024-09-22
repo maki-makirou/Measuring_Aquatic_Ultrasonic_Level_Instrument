@@ -1,5 +1,5 @@
 # Measuring Aquatic Ultrasonic Level Instrument (MAULI)
-Raspberry Pi Pico を用いた電子工作による安価で高性能なロガー付き超音波式水位計です。（1台約5,000円で作成できます。）　プログラムや部品を自由に変更して改造を楽しむことができます。
+Raspberry Pi Pico を用いた電子工作による**安価で高性能なロガー付き超音波式水位計**です。（1台約5,000円で作成できます。）　プログラムや部品を自由に変更して改造を楽しむことができます。
 
 This is a low-cost, high-performance ultrasonic water level meter with logger that is electronically built using Raspberry Pi Pico. (One can be made for about 5,000 yen.) You can freely change the program and parts to have fun modifying it.
 
@@ -17,9 +17,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
   - LCD関係のコードの著作権は Tyler Peppy(T-622) 氏にあります。https://github.com/T-622/RPI-PICO-I2C-LCD
 
 ## 作り方
-- [2025年1月版](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501)
-
-**「玄関みまもるくん」（Raspberry Pi Pico W を使用した玄関の出入り監視装置）**
+- [2025年1月版](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501.MD)
 
 <img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5380.JPG" width="320px">　　<img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5493.JPG" width="320px">
 
@@ -27,6 +25,14 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 
 <img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5570.JPG" width="320px">
 
+## 改造について
+改造については自己責任となります。なお、水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。
+https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun
+
 ## 注意点
-- センサーの設置位置はなるべく低くしてください。誤検出が少なくいい結果が得られます。
+屋外設置の際は、土地所有者や水路管理者の許可が必要です。**許可なく水位計を設置しないようご注意ください。**
+
+## 謝辞
+Raspberry Pi財団の皆様と電子部品やプラボックスを供給してくださるメーカーの皆様に感謝します。
+最後に自分の人生を支えてくれた妻に感謝します。
 
