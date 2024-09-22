@@ -12,9 +12,9 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 
 ## ライセンス
 - 作者が作成した python コードは MIT ライセンスに従うことを前提に改変の自由が守られています。
-- 作者以外の方が作成した一部のコードについては、それぞれ原作者の主張するライセンスに従う必要があります。具体的には以下の通りです。
-  - 内蔵温度計から温度を取得するコードは  Raspberry Pi (Trading) Ltd.のものです。https://github.com/raspberrypi/pico-micropython-examples/blob/master/adc/temperature.py
-  - LCD関係のコードは Tyler Peppy(T-622) 氏のものです。https://github.com/T-622/RPI-PICO-I2C-LCD　
+- 作者以外の方が作成した一部のコードについては、各作者の主張するライセンスに従う必要があります。具体的には以下の通りです。
+  - 内蔵温度計から温度を取得するコードの著作権は Raspberry Pi Ltd. にあります。ライセンスは [LICENSE.txt]()に従う必要があります。https://github.com/raspberrypi/pico-micropython-examples/blob/master/adc/temperature.py
+  - LCD関係のコードの著作権は Tyler Peppy(T-622) 氏にあります。https://github.com/T-622/RPI-PICO-I2C-LCD　
 
 ## 作り方
 
