@@ -1,18 +1,20 @@
 # Measuring Aquatic Ultrasonic Level Instrument (MAULI)
-Raspberry Pi Picoを用いた電子工作による安価で高性能なロガー付き超音波式水位計です。（1台約5,000円で作成できます。）　プログラムや部品を自由に変更して改造を楽しむことができます。
+Raspberry Pi Pico を用いた電子工作による安価で高性能なロガー付き超音波式水位計です。（1台約5,000円で作成できます。）　プログラムや部品を自由に変更して改造を楽しむことができます。
 
 This is a low-cost, high-performance ultrasonic water level meter with logger that is electronically built using Raspberry Pi Pico. (One can be made for about 5,000 yen.) You can freely change the program and parts to have fun modifying it.
 
 ## 特徴
-- 主要コードは MicroPython で書かれており、測定間隔等の変更が可能なプログラマブル水位計となっています。
+- 主要コードは MicroPython で書かれており、測定間隔等の変更が容易なプログラマブル水位計となっています。
 - 超音波センサーの性能に基づき、概ね mm 単位の計測が可能です。
 - 市販の小型プラボックスに格納することにより、雨天時の計測が可能です。
 - 電源は入手が容易な乾電池を使用しています。
 - 故障した場合でも部品単位で簡単に修理することが可能です。
 
 ## ライセンス
-- 作者が作成した python コードは MIT ライセンスのため改変の自由が保たれています。
-- 作者以外の方が作成した一部のコードについては、それぞれ原作者の主張するライセンスに従う必要があります。
+- 作者が作成した python コードは MIT ライセンスに従うことを前提に改変の自由が守られています。
+- 作者以外の方が作成した一部のコードについては、それぞれ原作者の主張するライセンスに従う必要があります。具体的には以下の通りです。
+  - 内蔵温度計から温度を取得するコードは  Raspberry Pi (Trading) Ltd.のものです。https://github.com/raspberrypi/pico-micropython-examples/blob/master/adc/temperature.py
+  - LCD関係のコードは Tyler Peppy(T-622) 氏のものです。https://github.com/T-622/RPI-PICO-I2C-LCD　
 
 ## 作り方
 
@@ -70,11 +72,6 @@ https://www.amazon.co.jp/%E3%82%AA%E3%83%BC%E3%83%A0%E9%9B%BB%E6%A9%9F-ES59089-%
 
 - タミヤ エレクラフトシリーズ No.19 1.5A 平行コード (5m) 75019　¥281　(2024/8現在)
 https://www.amazon.co.jp/%E3%82%BF%E3%83%9F%E3%83%A4-%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-No-19-%E5%B9%B3%E8%A1%8C%E3%82%B3%E3%83%BC%E3%83%89-75019/dp/B001VZJE0U/ref=sr_1_3?crid=1ZW34ND7WQ5M7&dib=eyJ2IjoiMSJ9.1NAfqtgMuPLJgzjWXEtlrKIZ4-OolsdXFezBjPbM8V827I5svJJSRCcHxpJP9pdbR37hMD8mW-MR0qlRgLU3iWmOqO5pkUpdE1NafUudwsTzdif3DblE1lsKjhfVv28vyTMxSoTe3SWvR71JDUzFc-Bqy9DWwI1cYxErq2mnUMIDHL-eGep0wX3d91BRLJZcF953RDrcsKJbcbICTg3zqeBYwwF2chw_q8BOuuOeU1DJ-jTMnm1AzquaHNEeTE_W_fFEVGcSGrG6CSLbaXmug_R0svt9CO1oRNWXG6Lh2jo.vcX-5GB0GlfFB8iV2Yx1NvLPj7vL3IAssHFwTt9Oz8Y&dib_tag=se&keywords=%E3%82%BF%E3%83%9F%E3%83%A4+%E3%82%B3%E3%83%BC%E3%83%89&qid=1723970081&sprefix=tamiya+%E3%82%B3%E3%83%BC%E3%83%89%2Caps%2C148&sr=8-3
-
-
-## pythonコード
-https://github.com/T-622/RPI-PICO-I2C-LCD　
-https://github.com/raspberrypi/pico-micropython-examples/blob/master/adc/temperature.py
 
 ## その他
 ### 工具
