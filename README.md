@@ -26,7 +26,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 <img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5570.JPG" width="320px">
 
 ## 改造について
-改造については自己責任となります。なお、水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。
+改造については自己責任となります。大容量の電池に交換すればより実用的になりますね。なお、水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。
 https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun
 
 ## 注意点
