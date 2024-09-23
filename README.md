@@ -1,7 +1,7 @@
 # Measuring Aquatic Ultrasonic Level Instrument (MAULI)
-Raspberry Pi Pico を用いた電子工作による**安価で高性能なロガー付き超音波式水位計**です。（1台約6,000円で作成できます。）　プログラムや部品を自由に変更して改造を楽しむことができます。
+　Raspberry Pi Pico を用いた電子工作による**安価で高性能なロガー付き超音波式水位計**です。（1台約6,000円で作成できます。）　プログラムや部品を自由に変更して改造を楽しむことができます。
 
-This is a low-cost, high-performance ultrasonic water level meter with logger that is electronically built using Raspberry Pi Pico. (One can be made for about 5,000 yen.) You can freely change the program and parts to have fun modifying it.
+This is a low-cost, high-performance ultrasonic water level meter with logger that is electronically built using Raspberry Pi Pico. (One can be made for about 6,000 yen.) You can freely change the program and parts to have fun modifying it.
 
 ## 特徴
 - 主要コードは MicroPython で書かれており、測定間隔等の変更が容易なプログラマブル水位計となっています。
