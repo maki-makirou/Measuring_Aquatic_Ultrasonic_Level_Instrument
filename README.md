@@ -4,11 +4,11 @@
 This is a low-cost, high-performance ultrasonic water level meter with logger that is electronically built using Raspberry Pi Pico. (One can be made for about 6,000 yen.) You can freely change the program and parts to have fun modifying it.
 
 ## 特徴
-- 主要コードは MicroPython で書かれており、測定間隔等の変更が容易なプログラマブル水位計となっています。
+- 主要コードは MicroPython で書かれており、測定間隔等の変更が容易なプログラマブル水位計です。
 - 超音波センサーの性能に基づき、概ね mm 単位の計測が可能です。
 - 小型プラボックスに格納しているため屋外での計測が可能です。雨天時の計測もできます。
 - 電源は入手が容易な乾電池を使用しています。
-- 故障した場合でも部品単位で簡単に修理することが可能です。
+- 故障した場合でも部品単位で修理することが可能です。
 
 ## ライセンス
 - 作者が作成した python コードは MIT ライセンスに従うことを前提に改変の自由が守られています。
