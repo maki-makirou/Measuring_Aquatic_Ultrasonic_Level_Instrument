@@ -7,12 +7,11 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 - 主要コードは MicroPython で書かれており、測定間隔等の変更が容易なプログラマブル水位計です。
 - 超音波センサーの性能に基づき、概ね mm 単位の計測が可能です。
 - 小型プラボックスに格納しているため屋外での計測が可能です。雨天時の計測もできます。
-- 電源は入手が容易な乾電池を使用しています。
-- 故障した場合でも部品単位で修理することが可能です。
+- 故障した場合でも部品単位で修理することが容易です。
 
 ## ライセンス
-- 作者が作成した python コードは MIT ライセンスに従うことを前提に改変の自由が守られています。
-- 作者以外の方が作成した一部のコードについては、各作者の主張するライセンスに従う必要があります。具体的には以下の通りです。
+- 作者が作成した python コードは MIT ライセンスに従って自由に改変することが出来ます。
+- 作者以外の方が作成したコードについては、以下の通り各作者の主張するライセンスに従う必要があります。
   - 内蔵温度計から温度を取得する[コード](https://github.com/raspberrypi/pico-micropython-examples/blob/master/adc/temperature.py)の著作権は Raspberry Pi Ltd. にあります。ライセンスは [LICENSE.txt](https://github.com/raspberrypi/pico-micropython-examples/blob/master/LICENSE.txt)に従う必要があります。
   - LCD関係のコードの著作権は Tyler Peppy(T-622) 氏にあります。https://github.com/T-622/RPI-PICO-I2C-LCD
 
@@ -26,7 +25,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 <img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5570.JPG" width="320px">
 
 ## 改造について
-改造については自己責任となります。大容量の電池に交換すればより実用的になりますね。なお、水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。
+改造については自己責任となります。大容量の電池に交換すればより実用的になります。水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。
 https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun
 
 ## 注意点
