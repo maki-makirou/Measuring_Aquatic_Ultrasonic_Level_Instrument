@@ -16,6 +16,9 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
   - LCD関係のコードの著作権は Tyler Peppy(T-622) 氏にあります。https://github.com/T-622/RPI-PICO-I2C-LCD
 
 ## 作り方
+
+以下のリンクの通りです。
+
 - [2025年1月版](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/MAULI_202501.md)
 
 <img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5380.JPG" width="320px">　　<img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5493.JPG" width="320px">
@@ -25,7 +28,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 <img src="https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun/blob/main/IMG_5570.JPG" width="320px">
 
 ## 改造について
-改造については自己責任となります。大容量の電池に交換すればより実用的になります。水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。
+改造についても自己責任となります。大容量の電池に交換すればより実用的になります。水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。
 https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun
 
 ## 注意点
