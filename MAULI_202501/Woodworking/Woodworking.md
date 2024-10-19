@@ -4,37 +4,49 @@
 
 <br>
 
-超音波センサーをプラボックスに取り付けるために木工作業を行います。市販品の板材（寸法：XXXXXXXXX）を接着するとサイズが合うので加工します。
+超音波センサーをプラボックスに取り付けるために木工作業を行います。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_4892.JPG" width="320px">
 
-本体と扉の接続部が分離しないように楊枝を金槌で打ち込みます。。
+市販品の板材（桧工作材　5x30x900）を2つに切断して木工用ボンドで写真のとおり接着します。一晩置いて乾燥させます。
 
 <br>
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_4892.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6449.JPG" width="320px">
 
-打ち込んだ後、楊枝をニッパーでカットします。
-
-<br>
-
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_4892.JPG" width="320px">
-
-楊枝をカットした後の上側です。
+ピン釘（20x13mm）を用意します。
 
 <br>
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_4892.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6362.JPG" width="320px">
 
-カットした後の下側です。計4本必要です。
+鉛筆等でピン釘を打つ場所に印を付けます。印を付ける位置は次の写真を参考にしてください。
 
 <br>
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_4892.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6368.JPG" width="320px">
 
-超音波式距離センサーを嵌め込む箇所（写真の2箇所）をカッターやラジオペンチを使って取り除きます。
+プラボックス付属の板材と桧工作材を木工用ボンドで接着してから金槌でピン釘を打ち込みます。
+
+<br>
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6370.JPG" width="320px">
+
+はみ出した木工用ボンドは水に濡らしたティッシュペーパーなどで拭き取ってください。
+
+<br>
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6371.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6372.JPG" width="320px">
+
+ピン釘を金槌でバランス良く打ち込みます。
+
+<br>
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6374.JPG" width="320px">
+
+一晩置いて木工用ボンドを乾燥させます。
 
 <br>
 
