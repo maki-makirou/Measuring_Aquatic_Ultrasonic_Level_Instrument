@@ -28,7 +28,7 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6368.JPG" width="320px">
 
-プラボックス付属の板材と桧工作材を木工用ボンドで接着してから金槌でピン釘を打ち込みます。
+プラボックス付属のプレートと桧工作材を木工用ボンドで接着してから金槌でピン釘を打ち込みます。
 
 <br>
 
@@ -47,6 +47,43 @@
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6374.JPG" width="320px">
 
 一晩置いて木工用ボンドを乾燥させます。
+
+<br>
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6419.JPG" width="320px">
+
+ステンレス建具用木ねじ皿（2x19mm）を使ってプラボックス付属のプレートに液晶ディスプレイを固定します。
+
+<br>
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6421.JPG" width="320px">
+
+キリで予め穴を開けてからドライバーでステンレス建具用木ねじ皿（2x19mm）を4箇所に取り付けます。ラズパイpicoは写真の位置に仮置きすると作業がしやすいです。
+液晶ディスプレイはプラボックス付属のプレートの取り外しができる位置に固定してください。固定金具が干渉しないよう少し下側に固定してください。
+
+<br>
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6422.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6423.JPG" width="320px">
+
+ビニルテープを丸めて枕を作ります。液晶ディスプレイの向かって左側は隙間が多くぐらつきやすいので枕を作って液晶ディスプレイの裏に詰めてぐらつかないようにします。
+
+<br>
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6424.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6426.JPG" width="320px">
+
+ブレッドボードの裏の保護シートを剥がして写真の位置に貼り付けてください。
+
+<br>
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6333.JPG" width="320px">
+
+バッテリーを取り付けて正常に動くか確認します。
+
+<br>
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6515.JPG" width="320px">
+
+USBのAタイプは裏表がわかりにくいのでシールでわかりやすくなるように工夫してみました。お好みでどうぞ。
 
 <br>
 
