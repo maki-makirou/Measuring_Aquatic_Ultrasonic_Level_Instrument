@@ -10,7 +10,7 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Plastic_box/img/IMG_6411.JPG" width="320px">
 
-本体と扉の接続部が分離しないように楊枝を金槌で打ち込みます。
+本体と扉の接続部が分離しづらくなるように楊枝を金槌で打ち込みます。
 
 <br>
 
