@@ -22,7 +22,7 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6362.JPG" width="320px">
 
-鉛筆等でピン釘を打つ場所に印を付けます。印を付ける位置は次の写真を参考にしてください。
+プラボックス付属のプレートを取り出して接着位置を確認してから鉛筆等でピン釘を打つ場所に印を付けます。印を付ける位置は次の写真を参考にしてください。
 
 <br>
 
@@ -46,7 +46,7 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6374.JPG" width="320px">
 
-一晩置いて木工用ボンドを乾燥させます。
+一晩置いて木工用ボンドを乾燥させます。その後、プラボックス付属のプレートを元通りにプラボックスに取り付けてください。
 
 <br>
 
@@ -58,7 +58,7 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6421.JPG" width="320px">
 
-キリで予め穴を開けてからドライバーでステンレス建具用木ねじ皿（2x19mm）を4箇所に取り付けます。ラズパイpicoは写真の位置に仮置きすると作業がしやすいです。
+キリで予め穴を開けてからドライバーでステンレス建具用木ねじ皿（2x19mm）を4箇所に取り付けます。ラズパイpicoは写真上部の位置に仮置きすると作業がしやすいです。
 液晶ディスプレイはプラボックス付属のプレートの取り外しができる位置に固定してください。固定金具が干渉しないよう少し下側に固定してください。
 
 <br>
@@ -83,7 +83,7 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6515.JPG" width="320px">
 
-USBのAタイプは裏表がわかりにくいのでシールでわかりやすくなるように工夫してみました。お好みでどうぞ。
+USBのAタイプは裏表がわかりにくいのでシールでわかりやすくなるように工夫してみました。お好みでマーキングしてください。
 
 <br>
 
