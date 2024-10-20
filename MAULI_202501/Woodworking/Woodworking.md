@@ -119,7 +119,8 @@ USBのAタイプは裏表がわかりにくいのでシールでわかりやす�
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6450.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6452.JPG" width="320px">
 
-キリで予め穴を開けてからピン釘（20x19mm）を超音波センサーの四隅の穴に金槌で打ち込みます。少し長いので貫通して机等を傷つけないように厚めのものを敷いて打ち込んでください。先端が板から出てしまった場合はニッパーで切断してください。
+キリで予め穴を開けてからピン釘（20x19mm）を超音波センサーの四隅の穴に金槌で打ち込みます。少し長いので貫通して机等を傷つけないように厚めのものを敷いて打ち込んでください。
+先端が板から出てしまった場合はニッパーで切断してください。超音波センサーの裏に隙間ができるので前述のビニルテープで枕を作ってぐらつかないようにしてください。
 
 <br>
 
