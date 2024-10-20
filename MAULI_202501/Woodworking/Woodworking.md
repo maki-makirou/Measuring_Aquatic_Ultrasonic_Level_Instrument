@@ -10,7 +10,7 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_4892.JPG" width="320px">
 
-市販品の板材（桧工作材　5x30x900）を2つに切断して木工用ボンドで写真のとおり接着します。一晩置いて乾燥させます。
+市販品の板材（桧工作材　5x30x900）をノコギリで2つに切断して木工用ボンドで写真のとおり接着します。一晩置いて乾燥させてからノコギリで8cmの長さに切断してください。
 
 <br>
 
