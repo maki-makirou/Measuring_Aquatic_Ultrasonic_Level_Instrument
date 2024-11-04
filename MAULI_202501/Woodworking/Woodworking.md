@@ -63,9 +63,9 @@
 
 <br>
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6422.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6423.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6575.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6576.JPG" width="320px">
 
-液晶ディスプレイの向かって左側は隙間が多くぐらつきやすいので、ビニルテープを丸めて枕を作ります。液晶ディスプレイの裏に詰めてぐらつかないようにしてください。
+液晶ディスプレイの向かって右側は隙間が多くぐらつきやすいので、ビニルテープを丸めて枕を作ります。液晶ディスプレイの裏に詰めてぐらつかないようにしてください。
 
 <br>
 
