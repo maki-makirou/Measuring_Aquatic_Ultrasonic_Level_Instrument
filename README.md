@@ -55,7 +55,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 <br>
 
 ## 改造について
-大容量の電池に交換すればより実用的になります。水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。なお、改造についても自己責任となります。
+大容量の電池に交換すればより実用的になります。また、水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。なお、改造についても自己責任となります。
 https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun
 
 <br>
