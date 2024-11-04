@@ -3,7 +3,7 @@
 
 This is a low-cost, high-performance ultrasonic water level meter with logger that is electronically built using Raspberry Pi Pico. (One can be made for about 6,000 yen.) You can freely change the program and parts to have fun modifying it.
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6465.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6523.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6569.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6572.JPG" width="320px">
 
 <br>
 
@@ -48,7 +48,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 
 2 表計算ソフトを立ち上げてコピーしたデータをペーストして一旦保存してください。
 
-3 メモした記録開始時間と水深データを使って、水位の時刻変化のデータに変換してください。ロガーに記録されている Distance は水面までの距離を記録したものですので水位への変換が必要です。
+3 メモした記録開始時間と水深データを使って、水位の時刻変化のデータに変換してください。ロガーに記録されている 「Distance(m)」 は水面までの距離を記録したものですので水位への変換が必要です。
 
 4 無事にデータを水位に変換できたら、次の測定のために Thonny でラズパイ pico 内の「log.csv」ファイルを開いてデータをすべて選択して削除してください。
 
