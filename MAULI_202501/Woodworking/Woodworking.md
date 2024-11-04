@@ -81,7 +81,7 @@
 
 <br>
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6515.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6515.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6567.JPG" width="320px">
 
 USBのAタイプは裏表がわかりにくいのでシールでわかりやすくなるように工夫してみました。お好みでマーキングしてください。
 
@@ -130,7 +130,7 @@ USBのAタイプは裏表がわかりにくいのでシールでわかりやす�
 
 <br>
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6500.JPG" width="320px">　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6524.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6577.JPG" width="320px">
 
 バッテリーの裏側に両面テープを貼り付けてプラボックスの内側側面に貼り付けて固定してください。
 
