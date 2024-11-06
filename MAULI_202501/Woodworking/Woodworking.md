@@ -136,4 +136,10 @@ USBのAタイプは裏表がわかりにくいのでシールでわかりやす�
 
 <br>
 
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/img/IMG_6569.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/img/IMG_6472.JPG" width="320px">
+
+これで完成です！
+
+<br>
+
 [前へ](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Plastic_box/Plastic_box.md)　　[次へ](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/MAULI_202501.md)
