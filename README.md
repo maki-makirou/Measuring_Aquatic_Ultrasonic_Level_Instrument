@@ -11,7 +11,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 - 主要コードは MicroPython で書かれており、測定間隔等の変更が容易なプログラマブル水位計です。
 - 超音波センサーの性能に基づき、概ね mm 単位の計測が可能です。（測定距離min: 0.02m、測定距離max: 4.5m、動作温度min: -10℃、動作温度max: 70℃）
 - 小型プラボックスに格納しているため屋外での計測が可能です。雨天時の計測もできます。
-- 異常値が出た時に自動で再計測させることができます。
+- 異常値が出た時は設定した時間間隔、回数で再計測します。
 - 故障した場合でも部品単位で修理が容易です。
 
 <br>
@@ -35,28 +35,34 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 
 1 水位観測においては、水位計の設置位置の選定が重要です。水位計は水深が変化しない地点に設置してください。
 
-2 初期設定では電源を入れて**1分間は計測値が液晶ディスプレイに表示されるスタートモード**になり、**1分後以降はログ記録モード**になり、測定値を内部メモリに記録します。電池をセットし、時計を見ながら 00 秒ちょうどに電源を入れてください。**1分後の時刻を忘れずにメモしてください。**
+2 初期設定では、**電源を入れて1分間は計測値が液晶ディスプレイに表示されるスタートモード**になり、**1分後以降はログ記録モードになり測定値を内部メモリに1分間隔で記録します**。電池をセットし、時計を見ながら 00 秒ちょうどに電源を入れてください。**1分後の時刻を忘れずにメモしてください。**
 
-3 屋外で使用する場合は、風等の衝撃で電池が外れることがあります。**電池が外れないように必ずセロハンテープで固定してください。**
+3 屋外で使用する場合は、風等の衝撃で電池が外れることがあります。**電池が外れないように必ずセロハンテープ等で固定してください。**
 
-4 **水位計の設置地点の水深をmm単位で測り、忘れずにメモしておいてください。**
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6569.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6572.JPG" width="320px">
+
+4 **南京錠等でフタが開かないようにしてください。**
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6569.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6572.JPG" width="320px">
+
+5 **水位計の設置地点の水深をmm単位で測り、忘れずにメモしておいてください。**
 
 <br>
 
 ### データ回収時
 
-1 水位計を回収したら　PC に接続して Thonny を起動して、右上の「STOP」ボタンを押した後、ラズパイ pico 内の「log.csv」ファイルを開いてデータをコピーしてください。
+1 水位計を回収したら　PC に接続して Thonny を起動して、右上の「STOP」ボタンを押した後、ラズパイ pico 内の「log.csv」ファイルを開いてデータをコピーしてください。Thonny の使い方は他のサイトで調べてください。
 
 2 表計算ソフトを立ち上げてコピーしたデータをペーストして一旦保存してください。
 
 3 メモした記録開始時間と水深データを使って、水位の時刻変化のデータに変換してください。ロガーに記録されている 「Distance(m)」 は水面までの距離を記録したものですので水位への変換が必要です。
 
-4 無事にデータを水位に変換できたら、次の測定のために Thonny でラズパイ pico 内の「log.csv」ファイルを開いてデータをすべて選択して削除してください。
+4 無事にデータを水位に変換できたら、次の測定のために Thonny でラズパイ pico 内の「log.csv」ファイルを開いてデータをすべて選択して削除するか、「log.csv」ファイルを削除してください。後者の方がおすすめです。
 
 <br>
 
 ## 改造について
-大容量の電池に交換すればより実用的になります。また、水位計を wifi 対応したい場合は、私の以下のサイトなどをご参考ください。なお、改造についても自己責任となります。
+大容量の電池に交換すればより実用的になります。また、水位計を wifi 対応したい場合は、以下のサイトなどをご参考ください。なお、改造についても自己責任となります。
 https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun
 
 <br>
