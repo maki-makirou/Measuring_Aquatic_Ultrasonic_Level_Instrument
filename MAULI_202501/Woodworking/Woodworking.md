@@ -10,7 +10,7 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_4892.JPG" width="320px">
 
-市販品の板材（桧工作材　5x30x900）をノコギリで2つに切断して木工用ボンドで写真のとおり接着します。一晩置いて乾燥させてからノコギリで8cmの長さに切断してください。
+市販品の板材（桧工作材　5x30x900）をノコギリで2つに切断して木工用ボンドで写真のとおり 5x60x450 に接着します。一晩置いて乾燥させてからノコギリで8cmの長さ（5x60x80）に切断してください。
 
 <br>
 
@@ -119,7 +119,7 @@ USBのAタイプは裏表がわかりにくいのでシールでわかりやす�
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6450.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6452.JPG" width="320px">
 
-キリで予め穴を開けてからピン釘（20x19mm）を超音波センサーの四隅の穴に金槌で打ち込みます。少し長いので貫通して机等を傷つけないように厚めのものを敷いて打ち込んでください。
+キリで予め穴を開けてからピン釘（20x19mm）を超音波センサーの四隅の穴に金槌で打ち込みます。少し長いので貫通して机等を傷つけないように厚めのものを敷いてから打ち込んでください。
 先端が板から出てしまった場合はニッパーで切断してください。超音波センサーの裏に隙間ができるので前述のビニルテープで枕を作ってぐらつかないようにしてください。
 
 <br>
