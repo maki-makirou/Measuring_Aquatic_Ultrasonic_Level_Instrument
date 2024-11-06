@@ -37,15 +37,15 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 
 2 初期設定では、**電源を入れて1分間は計測値が液晶ディスプレイに表示されるスタートモード**になり、**1分後以降はログ記録モードになり測定値を内部メモリに1分間隔で記録します**。電池をセットし、時計を見ながら 00 秒ちょうどに電源を入れてください。**1分後の時刻を忘れずにメモしてください。**
 
-3 屋外で使用する場合は、風等の衝撃で電池が外れることがあります。**電池が外れないように必ずセロハンテープ等で固定してください。**
+3 **水位計の設置地点の水深をmm単位で測り、忘れずにメモしておいてください。**
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6569.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6572.JPG" width="320px">
+4 屋外で使用する場合は、風等の衝撃で電池が外れることがあります。**電池が外れないように必ずセロハンテープ等で固定してください。**
 
-4 **南京錠等でフタが開かないようにしてください。**
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6586.JPG" width="320px">
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6569.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6572.JPG" width="320px">
+5 **南京錠等でフタが開かないようにしてください。**
 
-5 **水位計の設置地点の水深をmm単位で測り、忘れずにメモしておいてください。**
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6585.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6583.JPG" width="320px">
 
 <br>
 
