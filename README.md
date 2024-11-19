@@ -82,8 +82,18 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 
 <br>
 
+## 問い合わせ先
+  [Discussions](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/discussions) で問い合わせてください。
+
+<br>
+
 ## 謝辞
 Raspberry Pi財団の皆様と電子部品やプラボックス等を供給してくださるメーカーの皆様に感謝します。最後に私の妻に感謝します。
+
+<br>
+
+## 履歴
+- 2024-11-XX 公開
 
 <br>
 
