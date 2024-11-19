@@ -82,6 +82,11 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 
 <br>
 
+## ノウハウ
+ノウハウを[ここ](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/Know-how.md)にまとめました。
+
+<br>
+
 ## 問い合わせ先
   [Discussions](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/discussions) で問い合わせてください。
 
