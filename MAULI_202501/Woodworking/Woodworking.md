@@ -22,13 +22,13 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6362.JPG" width="320px">
 
-プラボックス付属のプレートを取り出して接着位置を確認してから鉛筆等でピン釘を打つ場所に印を付けます。印を付ける位置は次の写真を参考にしてください。
+プラボックス付属の木製プレートを取り出して接着位置を確認してから鉛筆等でピン釘を打つ場所に印を付けます。印を付ける位置は次の写真を参考にしてください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6368.JPG" width="320px">
 
-プラボックス付属のプレートと桧工作材を木工用ボンドで接着してから金槌でピン釘を打ち込みます。
+プラボックス付属の木製プレートと桧工作材を木工用ボンドで接着してから金槌でピン釘を打ち込みます。
 
 <br>
 
@@ -46,20 +46,20 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6374.JPG" width="320px">
 
-一晩置いて木工用ボンドを乾燥させます。その後、プラボックス付属のプレートを元通りにプラボックスに取り付けてください。
+一晩置いて木工用ボンドを乾燥させます。その後、プラボックス付属の木製プレートを元通りにプラボックスに取り付けてください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6419.JPG" width="320px">
 
-ステンレス建具用木ねじ皿（2x19mm）を使ってプラボックス付属のプレートに液晶ディスプレイを固定します。
+ステンレス建具用木ねじ皿（2x19mm）を使ってプラボックス付属の木製プレートに液晶ディスプレイを固定します。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6421.JPG" width="320px">
 
 キリで予め穴を開けてからドライバーでステンレス建具用木ねじ皿（2x19mm）を4箇所に取り付けます。ラズパイpicoは写真上部の位置に仮置きすると作業がしやすいです。
-液晶ディスプレイはプラボックス付属のプレートの取り外しができる位置に固定してください。固定金具が干渉しないよう少し下側に固定してください。
+液晶ディスプレイはプラボックス付属の木製プレートの取り外しができる位置に固定してください。固定金具が干渉しないよう少し下側に固定してください。
 
 <br>
 
