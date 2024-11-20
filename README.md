@@ -12,7 +12,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 - 超音波センサーの性能に基づき、0.3cm 程度の精度の計測が可能です。（測定距離min: 0.02m、測定距離max: 4.5m、動作温度min: -10℃、動作温度max: 70℃）
 - 小型プラボックスに格納しているため屋外での計測が可能です。雨天時の計測もできます。
 - 異常値が出た時に自動的に設定した時間間隔、回数で再計測させることができます。
-- 初期設定値（計測間隔1分、再計測最大2回、再計測10秒後）において、アルカリ単3電池3本で約5.5日間の連続計測ができます。アルカリ単1電池6本に改造すれば2ヶ月強の連続計測ができます。
+- 初期設定値（計測間隔1分、再計測最大2回、再計測10秒後）において、アルカリ単3電池3本で約5.5日間の連続計測ができます。アルカリ単1電池6本に改造すれば2ヶ月強の連続計測ができる見込みです。
 - 故障した場合でも部品単位で修理が容易です。
 
 <br>
@@ -30,6 +30,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 - 作者以外の方が作成したコードについては、以下の通り各作者の主張するライセンスに従う必要があります。
   - 内蔵温度計から温度を取得する[コード](https://github.com/raspberrypi/pico-micropython-examples/blob/master/adc/temperature.py)の著作権は Raspberry Pi Ltd. にあります。ライセンスは [LICENSE.txt](https://github.com/raspberrypi/pico-micropython-examples/blob/master/LICENSE.txt)に従う必要があります。
   - LCD関係のコードの著作権は Tyler Peppy(T-622) 氏にあります。https://github.com/T-622/RPI-PICO-I2C-LCD
+  - 超音波センサーの値取得に関するコードは広く使われているものですが出典が不明です。自己責任でご使用ください。情報をお持ちの方は [Discussions](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/discussions) にお願いします。
 
 <br>
 
