@@ -22,7 +22,7 @@
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6362.JPG" width="320px">
 
-プラボックス付属の木製プレートを取り出して接着位置を確認してから鉛筆等でピン釘を打つ場所に印を付けます。印を付ける位置は次の写真を参考にしてください。
+プラボックス付属の木製プレートを取り出して桧工作材 5x60x450 との接着位置を確認してから、桧工作材に鉛筆等でピン釘を打つ場所に印を付けます。印を付ける位置は次の写真を参考にしてください。
 
 <br>
 
