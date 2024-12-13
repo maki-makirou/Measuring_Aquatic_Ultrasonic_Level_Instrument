@@ -3,7 +3,23 @@ Measuring Aquatic Ultrasonic Level Instrument (MAULI) に関するノウハウ�
 
 <br>
 
-## 1. プラボックスの固定方法について
+## 1. 電池外れ防止対策
+屋外で使用する場合は、風等の衝撃で電池が外れることがあります。**電池が外れないように必ずセロハンテープ等で固定してください。**
+結構外れるので注意してください。
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6586.JPG" width="320px">
+
+<br>
+
+## 2. 南京錠等によるフタの固定
+**南京錠等でフタが開かないようにしてください。**
+忘れると設置できないので、水位計と一緒に保管しておくのがいいかもしれません。
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6585.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6583.JPG" width="320px">
+
+<br>
+
+## 3. プラボックスの固定方法について
 以下の市販のネジ等の組み合わせでプラボックスを固定することが可能です。これにより取付の自由度が高まります。
 
 |No|購入先|部品名（購入先リンク）|価格|確認月|備考|
