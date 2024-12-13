@@ -55,11 +55,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 
 4 屋外で使用する場合は、風等の衝撃で電池が外れることがあります。**電池が外れないように必ずセロハンテープ等で固定してください。**
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6586.JPG" width="320px">
-
 5 **南京錠等でフタが開かないようにしてください。**
-
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6585.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6583.JPG" width="320px">
 
 <br>
 
@@ -101,7 +97,7 @@ Raspberry Pi財団の皆様と電子部品やプラボックス等を供給し�
 <br>
 
 ## 履歴
-- 2024-11-XX 公開
+- 2024-12-XX 公開
 
 <br>
 
