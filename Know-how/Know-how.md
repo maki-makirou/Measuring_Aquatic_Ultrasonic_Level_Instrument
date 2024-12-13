@@ -1,5 +1,5 @@
-# ノウハウ
-MAULIに関するノウハウをまとめます。
+# Measuring Aquatic Ultrasonic Level Instrument (MAULI) に関するノウハウ
+Measuring Aquatic Ultrasonic Level Instrument (MAULI) に関するノウハウをまとめます。
 
 <br>
 
