@@ -22,8 +22,8 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 ## 短所
 - 耐久性はあまりないと思われます。
 - DIY水位計のため、組み立てが面倒です。
-- RTCを使用していないため日時が記録されません。記録開始日時をメモしてデータ回収後、自分で変換する必要があります。
-- 超音波センサーからの距離が記録されるため、水位に変換する必要があります。
+- RTCを使用していないため日時が記録されません。記録開始日時をメモしてデータ回収後、自分で日時補正する必要があります。
+- 超音波センサーからの計測距離がロガーに記録されるため、自分で水位に変換する必要があります。
 - 使用部品が改良された場合、正しく動作させるために配線やコードの修正が必要になる可能性があります。
 
 <br>
@@ -73,7 +73,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 <br>
 
 ## 改造について
-大容量の電池を使用できるようになればより実用的になります。[このサイト（単1電池6本版　※作成中）](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod)をご参考ください。また、水位計を wifi 対応したい場合は、[このサイト](https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun)のコードが参考になるかもしれません。なお、改造についても自己責任となります。
+大容量の電池を使用できるようになればより実用的になります。[このサイト（単1電池6本版　※作成中）](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod)をご参考ください。また、水位計を wifi 対応にしたい場合は、[このサイト](https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun)のコードが参考になるかもしれません。他にもSDカード対応にしたり、ソーラー電源を付けたりアイディア次第で様々な発展形が考えられます。なお、改造についても自己責任となりますので、理解した上で楽しんでください。
 
 <br>
 
