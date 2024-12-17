@@ -4,141 +4,141 @@
 
 <br>
 
-超音波センサーをプラボックスに取り付けるために木工作業を行います。
+1. 超音波センサーをプラボックスに取り付けるために木工作業を行います。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_4892.JPG" width="320px">
 
-市販品の板材（桧工作材　5x30x900）をノコギリで2つに切断して木工用ボンドで写真のとおり 5x60x450 に接着します。一晩置いて乾燥させてからノコギリで8cmの長さ（5x60x80）に切断してください。
+2. 市販品の板材（桧工作材　5x30x900）をノコギリで2つに切断して木工用ボンドで写真のとおり 5x60x450 に接着します。一晩置いて乾燥させてからノコギリで8cmの長さ（5x60x80）に切断してください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6449.JPG" width="320px">
 
-ピン釘（20x13mm）を用意します。
+3. ピン釘（20x13mm）を用意します。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6362.JPG" width="320px">
 
-プラボックス付属の木製プレートを取り出して桧工作材 5x60x450 との接着位置を確認してから、桧工作材に鉛筆等でピン釘を打つ場所に印を付けます。印を付ける位置は次の写真を参考にしてください。
+4. プラボックス付属の木製プレートを取り出して桧工作材 5x60x450 との接着位置を確認してから、桧工作材に鉛筆等でピン釘を打つ場所に印を付けます。印を付ける位置は次の写真を参考にしてください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6368.JPG" width="320px">
 
-プラボックス付属の木製プレートと桧工作材を木工用ボンドで接着してから金槌でピン釘を打ち込みます。
+5. プラボックス付属の木製プレートと桧工作材を木工用ボンドで接着してから金槌でピン釘を打ち込みます。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6370.JPG" width="320px">
 
-はみ出した木工用ボンドは水に濡らしたティッシュペーパーなどで拭き取ってください。
+6. はみ出した木工用ボンドは水に濡らしたティッシュペーパーなどで拭き取ってください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6371.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6372.JPG" width="320px">
 
-ピン釘を金槌でバランス良く打ち込みます。
+7. ピン釘を金槌でバランス良く打ち込みます。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6374.JPG" width="320px">
 
-一晩置いて木工用ボンドを乾燥させます。その後、プラボックス付属の木製プレートを元通りにプラボックスに取り付けてください。
+8. 一晩置いて木工用ボンドを乾燥させます。その後、プラボックス付属の木製プレートを元通りにプラボックスに取り付けてください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6419.JPG" width="320px">
 
-ステンレス建具用木ねじ皿（2x19mm）を使ってプラボックス付属の木製プレートに液晶ディスプレイを固定します。
+9. ステンレス建具用木ねじ皿（2x19mm）を使ってプラボックス付属の木製プレートに液晶ディスプレイを固定します。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6421.JPG" width="320px">
 
-キリで予め穴を開けてからドライバーでステンレス建具用木ねじ皿（2x19mm）を4箇所に取り付けます。ラズパイpicoは写真上部の位置に仮置きすると作業がしやすいです。
+10. キリで予め穴を開けてからドライバーでステンレス建具用木ねじ皿（2x19mm）を4箇所に取り付けます。ラズパイpicoは写真上部の位置に仮置きすると作業がしやすいです。
 液晶ディスプレイはプラボックス付属の木製プレートの取り外しができる位置に固定してください。固定金具が干渉しないよう少し下側に固定してください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6575.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6576.JPG" width="320px">
 
-液晶ディスプレイの向かって右側は隙間が多くぐらつきやすいので、ビニルテープを丸めて枕を作ります。液晶ディスプレイの裏に詰めてぐらつかないようにしてください。
+11. 液晶ディスプレイの向かって右側は隙間が多くぐらつきやすいので、ビニルテープを丸めて枕を作ります。液晶ディスプレイの裏に詰めてぐらつかないようにしてください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6424.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6426.JPG" width="320px">
 
-ブレッドボードの裏の保護シートを剥がして写真の位置に貼り付けてください。
+12. ブレッドボードの裏の保護シートを剥がして写真の位置に貼り付けてください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6333.JPG" width="320px">
 
-バッテリーを取り付けて正常に動くか確認します。
+13. バッテリーを取り付けて正常に動くか確認します。
 
 <br>
-
+.
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6515.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6567.JPG" width="320px">
 
-USBのAタイプは裏表がわかりにくいのでシールでわかりやすくなるように工夫してみました。お好みでマーキングしてください。
+14. USBのAタイプは裏表がわかりにくいのでシールでわかりやすくなるように工夫してみました。お好みでマーキングしてください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6458.JPG" width="320px">
 
-超音波センサーが写真の位置に来るようにセロハンテープで仮止めします。
+15. 超音波センサーが写真の位置に来るようにセロハンテープで仮止めします。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6443.JPG" width="320px">
 
-超音波センサーを貼り付ける位置に鉛筆等で印を付けます。
+16. 超音波センサーを貼り付ける位置に鉛筆等で印を付けます。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6434.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6441.JPG" width="320px">
 
-鉛筆で印を付けた四角形状の場所に接着剤を塗って超音波センサーを貼り付けます。
+17. 鉛筆で印を付けた四角形状の場所に接着剤を塗って超音波センサーを貼り付けます。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6445.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6447.JPG" width="320px">
 
-楊枝で超音波センサーを固定した後、セロハンテープで補強し一晩置きます。楊枝がなければ厚紙等で固定してください。
+18. 楊枝で超音波センサーを固定した後、セロハンテープで補強し一晩置きます。楊枝がなければ厚紙等で固定してください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6335.JPG" width="320px">
 
-ピン釘（20x19mm）を用意してください。
+19. ピン釘（20x19mm）を用意してください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6450.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6452.JPG" width="320px">
 
-キリで予め穴を開けてからピン釘（20x19mm）を超音波センサーの四隅の穴に金槌で打ち込みます。少し長いので貫通して机等を傷つけないように厚めのものを敷いてから打ち込んでください。
+20. キリで予め穴を開けてからピン釘（20x19mm）を超音波センサーの四隅の穴に金槌で打ち込みます。少し長いので貫通して机等を傷つけないように厚めのものを敷いてから打ち込んでください。
 先端が板から出てしまった場合はニッパーで切断してください。超音波センサーの裏に隙間ができるので前述のビニルテープで枕を作ってぐらつかないようにしてください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6470.JPG" width="320px">
 
-プラボックスに組み込んで超音波センサーが正しい位置に来ているかを確認します。
+21. プラボックスに組み込んで超音波センサーが正しい位置に来ているかを確認します。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6577.JPG" width="320px">
 
-バッテリーの裏側に両面テープを貼り付けてプラボックスの内側側面に貼り付けて固定してください。
+22. バッテリーの裏側に両面テープを貼り付けてプラボックスの内側側面に貼り付けて固定してください。
 
 <br>
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6569.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6472.JPG" width="320px">
 
-これで完成です！
+こ23. れで完成です！
 
 <br>
 
