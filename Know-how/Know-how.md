@@ -19,7 +19,15 @@ Measuring Aquatic Ultrasonic Level Instrument (MAULI) に関するノウハウ�
 
 <br>
 
-## 3. プラボックスの固定方法について
+## 3 ワイヤー抜け対策
+ワイヤーがブレッドボードに刺さった箇所を接着剤（ボンド ウルトラ多用途S・U プレミアムソフト クリヤー 25ml）で固定すると風等の衝撃で抜けにくくなります。
+ちょうどよい接着力で接着後もメンテナンスできるのでおすすめです。
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6434.JPG" width="320px">
+
+<br>
+
+## 4. プラボックスの固定方法について
 以下の市販のネジ等の組み合わせでプラボックスを固定することが可能です。これにより取付の自由度が高まります。
 
 |No|購入先|部品名（購入先リンク）|価格|確認月|備考|
