@@ -5,7 +5,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6569.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6572.JPG" width="320px">
 
-<br>※作成中
+<br>
 
 ## 特徴
 - 主要コードは MicroPython で書かれたプログラマブル水位計です。目的に応じて測定間隔など様々なパラメータを変更することができます。
