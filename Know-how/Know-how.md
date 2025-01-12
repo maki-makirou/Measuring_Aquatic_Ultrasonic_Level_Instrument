@@ -23,10 +23,14 @@ Measuring Aquatic Ultrasonic Level Instrument (MAULI) に関するノウハウ�
 ワイヤーがブレッドボードに刺さった箇所を接着剤（ボンド ウルトラ多用途S・U プレミアムソフト クリヤー 25ml）で固定すると風等の衝撃で抜けにくくなります。
 ちょうどよい接着力で接着後もきれいに剥がすことができます。メンテナンス性が高いのでおすすめです。
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6434.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6665.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6434.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6665.JPG" width="320px">
+
 <br>
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6667.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/Know-how/img/IMG_6668.JPG" width="320px">
+接着力塗布前後の写真です。
+
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6667.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6668.JPG" width="320px">
+
 <br>
 
 ## 4. プラボックスの固定方法について
@@ -40,17 +44,17 @@ Measuring Aquatic Ultrasonic Level Instrument (MAULI) に関するノウハウ�
 
 <br>
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6617.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6619.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6621.JPG" width="320px">
-
 製品写真です。寸法があっていれば他の材質でもいいと思いますが、屋外設置を考えてステンレス製を選びました。
 
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6617.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6619.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6621.JPG" width="320px">
+
 <br>
+
+写真のように取り付けます。プレートなどへの取り付けが容易になります。
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6605.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6607.JPG" width="320px">
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6608.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6609.JPG" width="320px">
-
-写真のように取り付けます。プレートなどへの取り付けが容易になります。
 
 <br>
 
