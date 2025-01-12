@@ -23,8 +23,10 @@ Measuring Aquatic Ultrasonic Level Instrument (MAULI) に関するノウハウ�
 ワイヤーがブレッドボードに刺さった箇所を接着剤（ボンド ウルトラ多用途S・U プレミアムソフト クリヤー 25ml）で固定すると風等の衝撃で抜けにくくなります。
 ちょうどよい接着力で接着後もきれいに剥がすことができます。メンテナンス性が高いのでおすすめです。
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6434.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6434.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6665.JPG" width="320px">
+<br>
 
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6667.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/img/IMG_6668.JPG" width="320px">
 <br>
 
 ## 4. プラボックスの固定方法について
