@@ -21,7 +21,7 @@ Measuring Aquatic Ultrasonic Level Instrument (MAULI) に関するノウハウ�
 
 ## 3. ワイヤー抜け対策
 ワイヤーがブレッドボードに刺さった箇所を接着剤（ボンド ウルトラ多用途S・U プレミアムソフト クリヤー 25ml）で固定すると風等の衝撃で抜けにくくなります。
-ちょうどよい接着力で接着後もメンテナンスできるのでおすすめです。
+ちょうどよい接着力で接着後もきれいに剥がすことができます。メンテナンス性が高いのでおすすめです。
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/Know-how/img/IMG_6434.JPG" width="320px">
 
