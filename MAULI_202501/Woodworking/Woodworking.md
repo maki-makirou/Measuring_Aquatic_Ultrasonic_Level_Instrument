@@ -80,7 +80,7 @@
 12. バッテリーを取り付けて正常に動くか確認します。
 
 <br>
-.
+
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6515.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/Woodworking/img/IMG_6567.JPG" width="320px">
 
 13. USBのAタイプは裏表がわかりにくいのでシールでわかりやすくなるように工夫してみました。お好みでマーキングしてください。
