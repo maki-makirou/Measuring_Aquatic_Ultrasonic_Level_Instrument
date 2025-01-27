@@ -74,7 +74,7 @@ This is a low-cost, high-performance ultrasonic water level meter with logger th
 <br>
 
 ## 改造について
-大容量の電池を使用できるようになればより実用的になります。[このサイト（単1電池6本版）　【※作成中】](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod)をご参考ください。
+大容量の電池を使用できるようになればより実用的になります。[このサイト（単1電池6本版）](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod)をご参考ください。
 また、水位計を wifi 対応にしてIoT機器化したい場合は、[このサイト](https://github.com/maki-makirou/RPI-RP2_genkan_mimamoru_kun)のコードが参考になるかもしれません。
 他にもSDカード対応にしたり、ソーラー電源を付けたり、Bluetooth対応にしたり、アイディア次第で様々な発展形が考えられます。
 なお、改造についても自己責任となりますので、リスクを理解した上で楽しんでください。
